@@ -38,9 +38,6 @@ This project is a web application for managing books and authors. Users can add,
 </div>
 
 ---
-
-## Getting Started
-
 ### Prerequisites
 - Java 24
 - Maven
