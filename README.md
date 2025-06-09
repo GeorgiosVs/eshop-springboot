@@ -1,3 +1,4 @@
+![ER Diagram](https://raw.githubusercontent.com/GeorgiosVs/eshop-springboot/main/erDiagram.svg)
 # Book & Author Management Web Application
 
 ## Overview
