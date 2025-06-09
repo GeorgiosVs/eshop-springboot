@@ -109,7 +109,7 @@ The database contains three main tables:
 
 ---
 <div align="center">
-<img src="https://raw.githubusercontent.com/GeorgiosVs/eshop-springboot/main/dbERD.svg" alt="dbERD" width="600"/>
+<img src="https://raw.githubusercontent.com/GeorgiosVs/eshop-springboot/main/" alt="dbERD" width="600"/>
 </div>
 
 ### Prerequisites
