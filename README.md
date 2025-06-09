@@ -14,7 +14,6 @@ This project is a web application for managing books and authors. Users can add,
 - A `@ManyToMany` relationship between books and authors is implemented.
 - Repository interfaces (`BookRepository`, `AuthorRepository`) use Spring Data JPA.
 <img src="https://raw.githubusercontent.com/GeorgiosVs/eshop-springboot/main/erDiagram.svg" alt="ER Diagram" width="600"/>
----
 
 ### ✔️ Business Logic Layer
 - DTO classes (`BookDTO`, `AuthorDTO`) are used for communication between the client and server.
