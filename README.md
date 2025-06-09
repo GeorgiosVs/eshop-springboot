@@ -48,22 +48,24 @@ This project is a web application for managing books and authors. Users can add,
 </div>
 
 ### 🚀 Swagger Documentation & Endpoints
-The API is documented using Swagger, which provides an interactive UI to explore and test endpoints:
+The API is documented using Swagger, which provides an interactive UI to explore and test endpoints.
 
-- **Getting Started**: Accessible via `/swagger-ui.html` (or the configured Swagger URL).
-- **Available Endpoints** include:
-  - `POST /books` — Create a new book
-  - `GET /books/{isbn}` — Retrieve book details
-  - `PUT /books/{isbn}` — Update book details
-  - `DELETE /books/{isbn}` — Delete a book
-  - `POST /books/{isbn}/authors` — Assign authors to a book
-  - `GET /authors` — List all authors
-  - `GET /authors/{id}/books` — List books by an author
-  - `POST /authors` — Add a new author
-  - `PUT /authors/{id}` — Update author info
-  - `DELETE /authors/{id}` — Delete an author
+### Getting Started:
+Accessible via `/swagger-ui.html` (or the configured Swagger URL).
 
-Enjoy seamless interaction with the API through the Swagger UI, which also displays detailed request and response schemas.
+### Available Endpoints:
+- `POST /books` — Create a new book
+- `GET /books/{isbn}` — Retrieve details of a book by ISBN
+- `PUT /books/{isbn}` — Update details of a book by ISBN
+- `DELETE /books/{isbn}` — Delete a book by ISBN
+- `PUT /books/{isbn}/authors` — Assign authors to a book
+- `GET /books` — List all books
+- `POST /authors` — Add a new author
+- `GET /authors` — List all authors
+- `GET /authors/{id}` — Get details of an author
+- `PUT /authors/{id}` — Update author information
+- `DELETE /authors/{id}` — Delete an author
+- `GET /authors/{id}/books` — List all books by an author
 
 ---
 
