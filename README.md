@@ -67,6 +67,10 @@ Enjoy seamless interaction with the API through the Swagger UI, which also displ
 
 ---
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/GeorgiosVs/eshop-springboot/main/erd2.svg" alt="ER Diagram 2" width="600"/>
+</div>
+
 ### Prerequisites
 - Java 24
 - Maven
