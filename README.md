@@ -18,7 +18,7 @@ This project is a web application for managing books and authors. Users can add,
 - Repository interfaces (`BookRepository`, `AuthorRepository`) use Spring Data JPA.
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/GeorgiosVs/eshop-springboot/main/erd.png" alt="ER Diagram" width="400"/>
+<img src="https://raw.githubusercontent.com/GeorgiosVs/eshop-springboot/main/erd.png" alt="ER Diagram" width="600"/>
 </div>
 
 ### ✔️ Business Logic Layer
@@ -44,7 +44,7 @@ This project is a web application for managing books and authors. Users can add,
 - API documentation is provided with Swagger (OpenAPI).
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/GeorgiosVs/eshop-springboot/main/swagger1.png" alt="swaggerPhoto" width="600"/>
+<img src="https://raw.githubusercontent.com/GeorgiosVs/eshop-springboot/main/swagger1.png" alt="swaggerPhoto" width="800"/>
 </div>
 
 ### 🚀 Swagger Documentation & Endpoints
@@ -70,7 +70,7 @@ Accessible via `/swagger-ui.html` (or the configured Swagger URL).
 ---
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/GeorgiosVs/eshop-springboot/main/erd2.svg" alt="ER Diagram 2" width="600"/>
+<img src="https://raw.githubusercontent.com/GeorgiosVs/eshop-springboot/main/erd2.svg" alt="ER Diagram 2" width="800"/>
 </div>
 
 # `eshop_spring` Database
