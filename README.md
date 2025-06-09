@@ -33,6 +33,9 @@ This project is a web application for managing books and authors. Users can add,
     - `/authors/{id}/books` — list books for a given author
 - Utilizes `@RestController`, `@RequestMapping`, and standard RESTful practices.
 - API documentation is provided with Swagger (OpenAPI).
+<div align="center">
+<img src="https://raw.githubusercontent.com/GeorgiosVs/eshop-springboot/main/swaggerPhoto.png" alt="swaggerPhoto" width="600"/>
+</div>
 
 ---
 
