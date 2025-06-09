@@ -14,7 +14,7 @@ This project is a web application for managing books and authors. Users can add,
 - A `@ManyToMany` relationship between books and authors is implemented.
 - Repository interfaces (`BookRepository`, `AuthorRepository`) use Spring Data JPA.
 <div align="center">
-<img src="https://raw.githubusercontent.com/GeorgiosVs/eshop-springboot/main/ERD.svg" alt="ER Diagram" width="800"/>
+<img src="https://raw.githubusercontent.com/GeorgiosVs/eshop-springboot/main/erd.png" alt="ER Diagram" width="800"/>
 </div>
 
 ### ✔️ Business Logic Layer
