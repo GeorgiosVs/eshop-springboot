@@ -124,7 +124,7 @@ This table manages the many-to-many relationship between books and authors.
 
 ---
 <div align="center">
-<img src="https://raw.githubusercontent.com/GeorgiosVs/eshop-springboot/main/dbERD.svg" alt="swaggerPhoto" width="600"/>
+<img src="https://raw.githubusercontent.com/GeorgiosVs/eshop-springboot/main/dbERD.svg" alt="dbERD" width="600"/>
 </div>
 
 
