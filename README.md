@@ -6,7 +6,7 @@ This project is a web application for managing books and authors. Users can add,
 - **Book Management** (title, ISBN, category, year of publication, author(s), etc.)
 - **Author Management** (name, list of books)
 ---
-<img src="https://raw.githubusercontent.com/GeorgiosVs/eshop-springboot/main/erDiagram.svg" alt="ER Diagram" width="300"/>
+<img src="https://raw.githubusercontent.com/GeorgiosVs/eshop-springboot/main/erDiagram.svg" alt="ER Diagram" width="1200"/>
 ## Implementation Details
 
 ### ✔️ Domain Layer (JPA, Hibernate, ManyToMany)
